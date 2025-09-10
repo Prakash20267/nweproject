@@ -39,4 +39,5 @@
 1. git diff <- branch name ->       (to compaire commits, branches,files & more)
 2. git merge <- branch name ->   (to merge 2 branches)
   OR
-3. Create a PR
+3. Create a PR   : (Pull Request)
+it tels you tell others about changes you've pushed to a branch in a repository on GitHub.
