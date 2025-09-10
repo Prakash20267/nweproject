@@ -1,0 +1,54 @@
+* Different terms :- 
+1. Command line - any interface that is used by entering textual commands (gen. Windows centric).
+2. Terminal - This is a type of command line (gen. Mac centric).
+3. Console - A command-line interface used to work with your computer.
+4. Shell - A program running on terminal.
+5. Bash - A popular shell on mac OS/Linux.
+6. Z-Shell - Another shell (default).
+
+* Basics 
+1. is = list files (show my files)
+2. pwd = print working directory (where am i?)
+3. clear = clear screen
+4. (~) home directory.
+
+* Navigation :- 
+Inside and Outside directories
+1. cd = change directory
+    cd Desktop
+    cd .. = back button
+
+* Paths :- 
+Absolutre and Relative
+
+cd Desktop/Webdev (relative path)
+cd /Users/Hemantprakash/Destop (absolute path)
+/ = root directory
+~ = home directory
+
+* Making Directions :-
+mkdir = make directory.
+
+* Flags:- 
+Flags are characters that we pass with commands to modify their behaviour.
+
+-> manual command
+-> man ls - give info about ls command 
+-> man mkdir - give info about mkdir command
+
+--> with flags
+1. ls -l
+2. ls -a 
+3. ls -la
+
+* Touch Command:- 
+Used to create a file.
+
+1. touch index.html
+2. touch app.js
+3. touch abc.txt
+
+* Deleting Files & Folders:- 
+1. rm - removes files.
+2. rmdir - remove empty folders.
+3. rm -rf - remove any folders. (rf -> remove forcefully )
