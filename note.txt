@@ -35,3 +35,8 @@
 4. git checkout-b <- new branch name ->   (to create new branch)
 5. git branch -d <- branch name ->   (to delete branch )
 
+* Merging Code :- 
+1. git diff <- branch name ->       (to compaire commits, branches,files & more)
+2. git merge <- branch name ->   (to merge 2 branches)
+  OR
+3. Create a PR
