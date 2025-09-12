@@ -22,9 +22,22 @@
 * push - upload local repo content to remote repo       // git push origin main.
 
 * init - used to create a new git repo     git init
-/*
-* git remote add origin <- link ->
-* git remote-v   (to verify remote)
-* git branch     (to check branch)
-* git branch-M main   (to rename branch)
-* git push origin main 
+1. git remote add origin <- link ->
+2. git remote-v   (to verify remote)
+3. git branch     (to check branch)
+4. git branch-M main   (to rename branch)
+5. git push origin main 
+
+* Branch Commands :- 
+1. git branch     (to check branch) 
+2. git branch -M main   (to rename branch)
+3. git checkout  <- branch name ->   (to navigate )
+4. git checkout-b <- new branch name ->   (to create new branch)
+5. git branch -d <- branch name ->   (to delete branch )
+
+* Merging Code :- 
+1. git diff <- branch name ->       (to compaire commits, branches,files & more)
+2. git merge <- branch name ->   (to merge 2 branches)
+  OR
+3. Create a PR   : (Pull Request)
+it tels you tell others about changes you've pushed to a branch in a repository on GitHub.
